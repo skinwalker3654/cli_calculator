@@ -1,0 +1,14 @@
+Syntax: ./main <command> <num1> <num2>
+commands: 
+    add  -  adds 2 numebrs
+    sub  -  subtrackts the 2nd from the 1st number
+    mul  -  multiplys 2 numbers
+    div  -  divides the 1st by the 2nd
+    pow  -  adds the 1st number to the power of the 2nd
+
+Examples:              outputs:
+    ./main add 4 5         9.00
+    ./main sub 10 2        8.00
+    ./main mul 2 4         8.00
+    ./main div 10 3        3.33
+    ./main pow 3 2         9.00
