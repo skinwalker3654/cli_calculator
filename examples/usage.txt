@@ -4,7 +4,7 @@ commands:
     sub  -  subtrackts the 2nd from the 1st number
     mul  -  multiplys 2 numbers
     div  -  divides the 1st by the 2nd
-    pow  -  adds the 1st number to the power of the 2nd
+    pow  -  adds the 2nd number to the power on the 1st number
 
 Examples:              outputs:
     ./main add 4 5         9.00
